@@ -30,7 +30,7 @@ h2 {
           column-count: 2; }
 
 .navbar {
-  background-image: linear-gradient(90deg, #EE5B32, #FB7928, #EE5B32);
+  background-image: linear-gradient(90deg, #EE5B32, #333333, #EE5B32);
   background-size: 100% 130px;
   background-position-y: bottom; }
 
